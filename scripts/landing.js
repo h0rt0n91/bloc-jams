@@ -12,3 +12,7 @@ var animatePoints = function() {
     for (var i=0; i<3; i++){
       revealPoint(i);
     };
+<<<<<<< HEAD
+=======
+//comment
+>>>>>>> checkpoint-8-dom
